@@ -1,2 +1,2 @@
-# Data-Visualization-and-Analyze
-Data Analyze
+# Data-Visualization-and-Analysis
+Data Analysis
