@@ -7,6 +7,7 @@ Using Technologies
 2 Pandas (import to csv file)
 
 3 Matplotlib (Visualization with plots)
+
 4 Seaborn (Virsualization)
 
 Data Preprocessing
