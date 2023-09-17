@@ -16,4 +16,4 @@ Data Analysis
 
 Data Virsualization
 
-Data
+Data Cleaning
