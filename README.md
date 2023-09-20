@@ -10,6 +10,8 @@ Using Technologies
 
 4 Seaborn (Virsualization)
 
+Data
+
 Data Preprocessing
 
 Data Analysis
