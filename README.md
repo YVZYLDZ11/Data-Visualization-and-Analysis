@@ -10,7 +10,7 @@ Using Technologies
 
 4 Seaborn (Virsualization)
 
-5 Dtasets
+5 Datasets
 
 Data 
 
